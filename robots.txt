@@ -1,3 +1,4 @@
+# Project-site copy. Crawl rules are authoritative only at the host root.
 User-agent: *
 Allow: /
 

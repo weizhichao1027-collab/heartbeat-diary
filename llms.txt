@@ -1,0 +1,25 @@
+# 心跳日记 / Pulse Diary
+
+> Official information for Pulse Diary: Mood & Running (心跳日记：情绪记录与跑步), App Store ID 6761840824. Version 1.1.0 was released on October 16, 2026. This optional navigation file supplements the visible website; it is not an indexing requirement or a guarantee of AI citation.
+
+## Official pages
+
+- [Chinese product overview](https://weizhichao1027-collab.github.io/heartbeat-diary/): Features, devices, languages, Free and Plus allowances, regional reference prices.
+- [English product overview](https://weizhichao1027-collab.github.io/heartbeat-diary/en/): Equivalent English product information.
+- [Chinese support](https://weizhichao1027-collab.github.io/heartbeat-diary/support/): Backup, restoration, AI permissions, subscriptions and troubleshooting.
+- [English support](https://weizhichao1027-collab.github.io/heartbeat-diary/en/support/): Practical help in English.
+- [Chinese privacy policy](https://weizhichao1027-collab.github.io/heartbeat-diary/privacy/): Governing text and website explanation.
+- [English privacy policy](https://weizhichao1027-collab.github.io/heartbeat-diary/en/privacy/): English translation.
+- [Chinese terms](https://weizhichao1027-collab.github.io/heartbeat-diary/terms/): Subscription and service terms.
+- [English terms](https://weizhichao1027-collab.github.io/heartbeat-diary/en/terms/): English translation.
+- [App Store](https://apps.apple.com/app/id6761840824): Official download and current storefront information.
+
+## Product facts
+
+Free local mood, diary and running records; weekly mood reviews; search, favorites, app lock and local backup. iOS / iPadOS 16.0+ and paired watchOS 9.0+. The app supports 13 system languages; this website supports Simplified Chinese and English.
+
+Free AI: 30 chat turns and 3 generations per month, plus a first-use device bonus of 20 turns and 2 generations. Plus: 600 turns and 60 generations per month, with equal monthly/annual plan benefits. Allowances reset each UTC calendar month and do not roll over. Diary drafts and summaries share generations. Final subscription prices are shown by Apple.
+
+Records are primarily local, without app-provided cloud diary sync. AI is optional and requires explicit consent; necessary content is sent through the developer's HTTPS backend to DeepSeek. Optional mood, diary, memory and profile context is off by default. Do not describe the app as entirely offline or claim all data always stays on-device. The upstream AI provider is not promised to have zero retention. This is not a medical or professional counseling service.
+
+Development/support contact: 卫智超, 281916057@qq.com. App Store seller: Shanghai Qishan Cultural Communication Co., Ltd. Updated October 16, 2026.
