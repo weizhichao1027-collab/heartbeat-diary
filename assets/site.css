@@ -84,6 +84,14 @@ thead { background: var(--card); }
 tbody th { inline-size: 45%; font-weight: 500; }
 td { inline-size: 27.5%; }
 .product-facts { max-inline-size: 960px; }
+.release-notes { max-inline-size: 960px; }
+.breadcrumbs { margin-block-end: 24px; color: var(--muted); font-size: .94rem; }
+.breadcrumbs a { display: inline-flex; align-items: center; min-block-size: 44px; }
+.quick-help { display: flex; flex-wrap: wrap; gap: 8px 24px; margin-block: -16px 40px; padding-block: 16px; border-block: 1px solid var(--line); }
+.quick-help a, .question-link { display: inline-flex; align-items: center; min-block-size: 44px; }
+.question-link { color: var(--ink); text-decoration-color: var(--line); }
+.question-link:hover { color: var(--accent); text-decoration-color: currentColor; }
+.answer:has(:target) { background: var(--card); }
 .download-band { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 24px; margin-block-start: 80px; padding-block: 40px; border-block-start: 1px solid var(--line); }
 .download-band h2 { margin: 0; }
 .doc-title { max-inline-size: 900px; margin-block-end: 48px; }

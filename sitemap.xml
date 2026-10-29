@@ -1,35 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://weizhichao1027-collab.github.io/heartbeat-diary/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/heartbeat-diary/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/heartbeat-diary/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/heartbeat-diary/" />
   </url>
   <url>
     <loc>https://weizhichao1027-collab.github.io/heartbeat-diary/support/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/heartbeat-diary/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/heartbeat-diary/en/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/heartbeat-diary/support/" />
   </url>
   <url>
     <loc>https://weizhichao1027-collab.github.io/heartbeat-diary/privacy/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/heartbeat-diary/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/heartbeat-diary/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/heartbeat-diary/privacy/" />
   </url>
   <url>
     <loc>https://weizhichao1027-collab.github.io/heartbeat-diary/terms/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/heartbeat-diary/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/heartbeat-diary/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/heartbeat-diary/terms/" />
   </url>
   <url>
     <loc>https://weizhichao1027-collab.github.io/heartbeat-diary/en/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/heartbeat-diary/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/heartbeat-diary/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/heartbeat-diary/" />
   </url>
   <url>
     <loc>https://weizhichao1027-collab.github.io/heartbeat-diary/en/support/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/heartbeat-diary/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/heartbeat-diary/en/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/heartbeat-diary/support/" />
   </url>
   <url>
     <loc>https://weizhichao1027-collab.github.io/heartbeat-diary/en/privacy/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/heartbeat-diary/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/heartbeat-diary/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/heartbeat-diary/privacy/" />
   </url>
   <url>
     <loc>https://weizhichao1027-collab.github.io/heartbeat-diary/en/terms/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/heartbeat-diary/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/heartbeat-diary/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/heartbeat-diary/terms/" />
   </url>
 </urlset>
